@@ -11,6 +11,13 @@ This repository contains a simple Java program that calculates **Simple Interest
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sksanjay12/java-simple-interest.git
+Compile the program:
+bash
+javac Main.java
+
+Run the program:
+bash
+java Main
 
 Sample Output:
 
